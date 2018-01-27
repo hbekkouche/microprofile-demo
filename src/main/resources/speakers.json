@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "fullname": "Cherif Yazid",
+    "link": "https://twitter.com/cherif_yaz",
+    "position": "Software Engineer, JavaEE Developer",
+    "photo": "http://algiers.algeriatech.org/images/meetups/speakers/yazid_cherif.png"
+  },
+  {
+    "id": 2,
+    "fullname": "Mohamed Guezil",
+    "link": "https://www.linkedin.com/in/mohamed-guezil-77466263/",
+    "position": "Ingenieur conception et developpemnt SI at Elit-Sonelgaz",
+    "photo": "http://algiers.algeriatech.org/images/meetups/speakers/mohamed_guezil.jpg"
+  },
+  {
+    "id": 3,
+    "fullname": "Bilal Khiat",
+    "link": "https://www.linkedin.com/in/bilal-khiat-6a826920/",
+    "position": "Oracle Certified Expert Specialist Java & Fusion Middleware",
+    "photo": "http://algiers.algeriatech.org/images/meetups/speakers/bilal_khiat.jpg"
+  },
+  {
+    "id": 4,
+    "fullname": "Hocine Bekkouche",
+    "link": "https://twitter.com/bek_hocine",
+    "position": "Team leader & Analyste Developer at IconSoftware",
+    "photo": "http://algiers.algeriatech.org/images/meetups/speakers/hocine_bekkouche.png"
+  }
+]

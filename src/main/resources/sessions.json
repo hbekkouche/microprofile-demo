@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "What's new in Java 9",
+    "level": "Intermediate",
+    "speakerId": 1
+  },
+  {
+    "id": 2,
+    "title": "Java Entreprise Edition",
+    "level": "Intermediate",
+    "speakerId": 2
+  },
+  {
+    "id": 3,
+    "title": "Think Functional and Reactive in Programming with Java",
+    "level": "Advanced",
+    "speakerId": 3
+  },
+  {
+    "id": 4,
+    "title": "Eclipse MicroProfile - Java Enterprise for a microservices architecture",
+    "level": "Intermediate",
+    "speakerId": 4
+  }
+]
